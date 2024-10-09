@@ -1,0 +1,15 @@
+{
+  "originHash" : "6f11eca32eff624f9a2af8230566034adaeb479d566a48bd519f9cef9622680a",
+  "pins" : [
+    {
+      "identity" : "placard",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ccavnor/Placard.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "e1d345de7133408ecb668bda37026ab2e60a3add"
+      }
+    }
+  ],
+  "version" : 3
+}
